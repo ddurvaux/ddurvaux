@@ -10,7 +10,9 @@ I like to do random stuff.
 
 ### Software I initially developed and maintain
 
-- 
+|:---:|:---|:---:|
+|[Scripts for Domoticz]([https://github.com/EC-DIGIT-CSIRC/sysdiagnose/](https://github.com/ddurvaux/domoticz)) | Some scripts around Domoticz | Iddle |
+|[SRUM parser](https://github.com/ddurvaux/SRUMParser)| Python parser for SRUM files | Unmaintained |
 
 ### Software I co-developed and co-maintain
 
@@ -19,5 +21,4 @@ I like to do random stuff.
 |:---:|:---|:---:|
 |[Sysdiagnose Analysis Framework](https://github.com/EC-DIGIT-CSIRC/sysdiagnose/))|DFIR tool to analyse Apple iOS / iPad OS sysdiagnose file of|Active|
 
-
-
+And a few other thinks here and there...
